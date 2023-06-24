@@ -1,0 +1,406 @@
+.H1 {
+    text-align: center;
+    width: 1000px;
+    margin-bottom: 25px;
+}
+
+.container {
+    width: 1000px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.block-1 {
+    margin-right: 25px;
+    width: 158.4px;
+    text-align: center;
+    height: 200px;
+    border: 1px solid black;
+    border-radius: 25%;
+    margin-bottom: 25px;
+}
+
+.img {
+    align-items: center;
+    margin-top: 20px;
+}
+
+.Text {
+    margin-top: 10px;
+    font-weight: 600;
+}
+
+.block-2 {
+    width: 158.4px;
+    text-align: center;
+    height: 200px;
+    border: 1px solid black;
+    border-radius: 25%;
+    margin-bottom: 25px;
+}
+
+.hr {
+    width: 950px;
+    margin-left: 25px;
+    margin-bottom: 25px;
+}
+ .text {
+    text-align: center;
+    font-weight: 600;
+    width: 1000px;
+ }
+
+
+
+
+
+ .H1-1 {
+    margin-top: 200px;
+    text-align: center;
+    width: 800px;
+    margin-bottom: 25px;
+ }
+
+ .container-1 {
+    width: 800px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.block-1-1 {
+    margin-right: 25px;
+    width: 158.4px;
+    text-align: center;
+    height: 200px;
+    border: 1px solid black;
+    border-radius: 25%;
+    margin-bottom: 25px;
+}
+
+.block-2-1 {
+    width: 158.4px;
+    text-align: center;
+    height: 200px;
+    border: 1px solid black;
+    border-radius: 25%;
+    margin-bottom: 25px;
+}
+
+.hr-1 {
+    width: 750px;
+    margin-left: 25px;
+    margin-bottom: 25px;
+}
+ .text-1 {
+    text-align: center;
+    font-weight: 600;
+    width: 800px;
+ }
+
+
+
+
+
+
+.buttom {
+    margin-top: 300px;
+    width: 300px;
+    height: 100px;
+    border: 1px solid grey;
+    background-color: grey;
+    display: flex;
+}
+
+.buttom-2 {
+    width: 300px;
+    height: 100px;
+    border: 1px solid grey;
+    background-color: grey;
+    display: flex;
+}
+
+.img-2 {
+    width: 70px;
+    height: 70px;
+    margin: auto 25px auto 15px;
+}
+
+.text-2 {
+    margin: auto 0;
+    color: white;
+    font-weight: 500;
+    font-size: large;
+}
+
+.buttom-2:hover {
+    cursor: pointer;
+    background-color: rgb(45, 44, 44, 1);
+    opacity: .5;
+}
+
+.buttom:hover {
+    cursor: pointer;
+    background-color: rgba(45, 44, 44, 1);
+    opacity: .5;
+}
+
+
+
+
+
+
+
+
+
+.wrapper {
+    width: 1440px;
+    height: auto;
+    margin-top: 300px;
+}
+
+.Header {
+    background-color: rgb(165, 52, 110);
+    width: 100%;
+    height: 150px;
+}
+
+.header {
+    color: white;
+    margin: auto 0;
+    padding-left: 50px;
+    padding-top: 59px;
+    box-sizing: border-box;
+    height: 32px;
+}
+
+.Menu {
+    background-color: rgb(108, 20, 65);
+    width: 100%;
+    height: 75px;
+}
+
+.menu {
+    color: white;
+    margin: 15px 0;
+    padding-left: 50px;
+    height: 32px;
+    padding-top: 21.5px;
+    box-sizing: border-box;
+}
+
+.main {
+    width: 100%;
+    height: auto;
+    display: flex;
+}
+
+.Block-Aside {
+    width: 360px;
+    margin-top: 15px;
+}
+
+.Aside {
+    height: 150px;
+    width: 360px;
+    float: left;
+    background-color: rgb(224, 125, 176);
+    margin-bottom: 15px;
+}
+
+.aside {
+    color: white;
+    height: 32px;
+    padding-top: 37.56px;
+    padding-left: 50px;
+    box-sizing: border-box;
+}
+
+.Main-content {
+    width: 940px;
+    height: 447.44px;
+    margin-left: 15px;
+    margin-right: 15px;
+    background-color: rgb(224, 125, 176);
+    margin-top: 15px;
+    padding-left: 50px;
+    padding-right: 50px;
+    box-sizing: border-box;
+}
+
+.main-content {
+    padding-top: 15px;
+    color: white;
+    height: 32px;
+    box-sizing: border-box;
+}
+
+.Section {
+    background-color: rgb(225, 169, 198);
+    height: 150px;
+}
+
+.section {
+    color: white;
+    padding-left: 50px;
+    height: 32px;
+    padding-top: 15px;
+    box-sizing: border-box;
+}
+
+.Aside-3 {
+    float: right;
+    height: 300px;
+    width: 150px;
+    background-color: rgb(224, 125, 176);
+    margin-top: 15px;
+} 
+
+.aside-3 {
+    color: white;
+    text-align: center;
+    justify-content: space-between;
+}
+
+.Footer {
+    background-color: rgb(108, 20, 65);
+    width: 100%;
+    height: 75px;  
+}
+
+.footer {
+    color: white;
+    margin: 15px 0;
+    padding-left: 50px;
+    height: 32px;
+    padding-top: 21.5px;
+    box-sizing: border-box;
+}
+
+
+
+
+
+
+
+
+
+.Footer-1 {
+    background-color: rgb(91, 92, 145);
+    width: 1440px;
+    height: 300px;
+    margin-top: 300px;
+    flex-wrap: wrap;
+}
+
+.Footer-container {
+    display: flex;
+    width: 100%;
+    height: 191px;
+}
+
+.footer-block-1 {
+    padding-left: 150px;
+    padding-top: 50px;
+    box-sizing: border-box;
+}
+
+.footer-text-1 {
+    color: white;
+    height: 24px;
+    margin: 5px 0;
+}
+
+.footer-block-2 {
+    padding-left: 400px;
+    padding-top: 50px;
+    box-sizing: border-box;
+}
+
+.footer-block-3 {
+    float: right;
+    padding-left: 213px;
+    padding-right: 150px;
+    display: flex;
+    justify-content: center;
+    padding-top: 63.5px;
+    box-sizing: border-box;
+}
+
+
+.img-3-1,
+.img-3-2,
+.img-3-3 {
+    padding-right: 25px;
+    display: block;
+}
+
+.HR {
+    width: 1340px;
+    margin-left: 50px;
+}
+
+.Copy {
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+}
+
+
+
+
+.footer-text-1 {
+    position: relative;
+	color: white;
+	cursor: pointer;
+	line-height: 1; 
+	text-decoration: none; 
+}
+
+.footer-text-1::after {
+    display: block;
+	position: absolute;
+	left: 0; 
+	width: 0;
+	height: 2px; 
+	background-color: white;
+	content: "";
+	transition: width .5s ease-out; /
+}
+
+.footer-text-1:hover::after,
+.footer-text-1:focus::after {
+    width: 100%;
+}
+
+
+.img-3-3:hover, .img-3-3:focus, .img-3-3:active {
+    background: url(images\youtube.png) no-repeat 50% 50%;
+   }
+  
+  .img-3-3:hover img, .img-3-3:focus img, .img-3-3:active img  {
+    background: transparent;
+    visibility: hidden;
+  }
+
+.img-3-2:hover, .img-3-2:focus, .img-3-2:active {
+    background: url(images/insta.png) no-repeat 50% 50%;
+   }
+  
+  .img-3-2:hover img, .img-3-2:focus img, .img-3-2:active img  {
+    background: transparent;
+    visibility: hidden;
+  }
+
+.img-3-1:hover, .img-3-1:focus, .img-3-1:active {
+    background: url(images/fb.png) no-repeat 50% 50%;
+   }
+  
+  .img-3-1:hover img, .img-3-1:focus img, .img-3-1:active img  {
+    background: transparent;
+    visibility: hidden;
+  }
+  
