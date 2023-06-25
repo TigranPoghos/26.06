@@ -378,7 +378,7 @@
 
 
 .img-3-3:hover, .img-3-3:focus, .img-3-3:active {
-    background: url(images\youtube.png) no-repeat 50% 50%;
+    background: url(../images/youtube.png) no-repeat 50% 50%;
    }
   
   .img-3-3:hover img, .img-3-3:focus img, .img-3-3:active img  {
@@ -387,7 +387,7 @@
   }
 
 .img-3-2:hover, .img-3-2:focus, .img-3-2:active {
-    background: url(images/insta.png) no-repeat 50% 50%;
+    background: url(../images/insta.png) no-repeat 50% 50%;
    }
   
   .img-3-2:hover img, .img-3-2:focus img, .img-3-2:active img  {
@@ -396,7 +396,7 @@
   }
 
 .img-3-1:hover, .img-3-1:focus, .img-3-1:active {
-    background: url(images/fb.png) no-repeat 50% 50%;
+    background: url(../images/fb.png) no-repeat 50% 50%;
    }
   
   .img-3-1:hover img, .img-3-1:focus img, .img-3-1:active img  {
